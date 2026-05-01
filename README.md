@@ -50,10 +50,3 @@ To run this project locally:
 * Include online ordering functionality
 * Improve animations and UI components
 
-## Author
-
-Developed as part of a web design project.
-
----
-
-⭐ Feel free to fork, modify, and enhance this project!
